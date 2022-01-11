@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Giuseppe.
 - 👀 I’m interested in Theoretical Computer Science, Artificial intelligence, Logic and Mathematics (and all the existential problem :P).
-- 🌱 I’m currently learning Game Engine Architecture, Advanced algorithms and data structures and Deep Learning.
+- 🌱 I’m currently learning Game Engine Architecture, Advanced algorithms and data structures and Large scale c++ volume 1.
 - 📫 How to reach me twitter.com/Giully314
