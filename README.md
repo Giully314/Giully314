@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giuseppe.
 - 👀 I’m interested in Theoretical Computer Science, Artificial intelligence, Logic and Mathematics (and all the existential problem :P).
-- 🌱 I’m currently learning Game Engine Architecture, MIT Principles of chemical science, MIT The Human Brain, MIT multivariable calculus.
+- 🌱 I’m currently learning NLP, energy based systems and software performance.
 - 📫 How to reach me twitter.com/Giully314
 - My blog with other info about me: https://giully314.github.io/
