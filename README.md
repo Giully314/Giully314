@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giuseppe.
-- 👀 I’m interested in Theoretical Computer Science, Artificial intelligence, Logic, Mathematics and Biology (and all the existential problems :P).
-- 🌱 I’m currently learning Theory of Computation and consciousness, Molecular biology of the cell, Mathematics as foundation of programming and Logic.
+- 👀 I’m interested in Theoretical Computer Science, Artificial intelligence and consciousness, Logic, Mathematics and Biology (and all the existential problems :P).
+- 🌱 I’m currently learning Web browser development, Mathematics as foundation of programming and Logic, Computer vision.
 - 📫 How to reach me twitter.com/Giully314
 - My blog with other info about me: https://giully314.github.io/
